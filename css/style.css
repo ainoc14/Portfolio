@@ -320,6 +320,8 @@ header img{
     text-align: center;
     color: whitesmoke;
     justify-content: center;
+    text-align: center;
+    padding: 0;
 }
 .skills ul li{
     list-style: none;
