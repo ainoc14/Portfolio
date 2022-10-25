@@ -368,6 +368,12 @@ header img{
         font-size: 0.9rem;
     }
 }
+@media (max-width: 300px){
+    .hire-btn,.cv-btn{
+        width: 110px;
+        font-size: 0.7rem;
+    }
+}
 /* projects */
 #projects{
     display: flex;
